@@ -1,11 +1,11 @@
-#######################################
+########################################
 # Author: Utkarsh P Srivastava
 # Description: Augmenting the HAM10000 dataset
 # for skin lesion classification
 # for balancing the dataset.
 #License: MIT
 # Date: 2023-10-01
-#######################################
+########################################
 
 # Import necessary libraries
 from numpy.random import seed
